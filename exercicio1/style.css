@@ -2,6 +2,10 @@ h1 {
     color: blue;
     font-size: 2em;
 }
+.lista {
+    color: rgb(196, 4, 4);
+    font-size: 1.2em;
+}
 button {
     background-color: green;
     color: white;
@@ -9,4 +13,8 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+.destaque {
+    font-weight: bold;
+    text-decoration: underline;
 }
